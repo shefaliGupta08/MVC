@@ -3,7 +3,7 @@
 <html>
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <title>Welcome people</title>
+      <title>Welcome people !</title>
     </head>
     <body>
         <form action= "add">
